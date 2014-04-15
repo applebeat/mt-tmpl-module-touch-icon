@@ -1,0 +1,9 @@
+<mt:Assets include_blogs="siblings" include_with_website="1"><mt:AssetIfTagged tag="@touch-icon">
+<link rel="apple-touch-icon" sizes="57x57" href="<mt:AssetThumbnailURL square="1" width="57">"><!-- Non-Retina iPhone -->
+<link rel="apple-touch-icon" sizes="114x114" href="<mt:AssetThumbnailURL square="1" width="114">"><!-- Retina iPhone iPod touch iOS6 earlier -->
+<link rel="apple-touch-icon" sizes="72x72" href="<mt:AssetThumbnailURL square="1" width="72">"><!-- Non-Retina iPad iOS6 earlier -->
+<link rel="apple-touch-icon" sizes="144x144" href="<mt:AssetThumbnailURL square="1" width="144">"><!-- Retina iPad iOS6 earlier -->
+<link rel="apple-touch-icon" sizes="152x152" href="<mt:AssetThumbnailURL square="1" width="152">"><!-- Retina iPad iOS7 later -->
+<link rel="apple-touch-icon" sizes="120x120" href="<mt:AssetThumbnailURL square="1" width="120">"><!-- Retina iPhone iPod touch iOS7 later -->
+<link rel="apple-touch-icon" sizes="76x76" href="<mt:AssetThumbnailURL square="1" width="76">"><!-- Non-Retina iPad iOS7 later -->
+</mt:AssetIfTagged></mt:Assets>
